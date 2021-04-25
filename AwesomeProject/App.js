@@ -1,3 +1,4 @@
+// Yertugan Toguzbayev 20MD0236
 import React, {useState} from 'react'
 import {View, Text, FlatList, StyleSheet, Alert} from 'react-native'
 import Header from './components/Header'
